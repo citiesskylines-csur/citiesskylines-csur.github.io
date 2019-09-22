@@ -1,6 +1,6 @@
 # CSUR -- Cities: Skylines Urban Road
 
-![title](img/title.jpg)
+![title](img/title.png)
 
 全新版CSUR即将发布！新版我们进一步改善了模型和贴图，还实现了大量新特性，包括带左转专用道的路，BRT路，完整的匝道接口模块合集，所有路均带有隧道模型和车道指示等等。我们还开发了一套程序用来全自动生成和导入CSUR的所有模块，你只要花几分钟就可以定制自己的CSUR路了。
 
