@@ -14,4 +14,8 @@ We're working towards releasing it by late October and will be also publishing l
 
 * Click here for [Getting Started](getting_started_en.md) with CSUR.
 
+新しいバージョンのCSURが間もなくリリースされます！新版では，モデルとテクスチャをさらに改善し，大量の新しい特性も実現した。この中には左カーブ専用道、BRT路、完全なランプインターフェースモジュールのパックがあります。すべての道にはトンネルモデルと車道指示などがあります。全自動でCSURを生成して導入するためのプログラムも開発しました、数分間でCSUR道路をカスタマイズできます。
 
+新しいCSURはまだ開発中です。10月末に正式版を発表できるように努力します。同時に一連の文書（中国語、英語、日本語）、教程、速読表も作成します。お楽しみに！
+
+* ここをクリックして [使用説明](getting_started_jp.md)を読みます。
