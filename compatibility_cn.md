@@ -1,4 +1,4 @@
-| 资产 | CSUR (2018), CSUE | CSUR(2019) | 是否被包括在默认包内 | 备注
+| 资产 | CSUR (2018), CSUE | CSUR(2019) | 默认包内包括 | 备注
 | ----- | ----------- | ----------- | ---- | ----- |
 | ![CSUR St 2DR 16m](https://steamuserimages-a.akamaihd.net/ugc/946201924932235353/5A696E4BB08E7A0125D75C4F5DC3BB089E7E0355/?imw=100&imh=100&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true) | CSUR St 2DR 16m | **CSUR 2DR** | :heavy_check_mark: |
 | ![CSUR St2 2DR](https://steamuserimages-a.akamaihd.net/ugc/946201924932244233/9473876A12B758C23B823326C5CF81B422777330/?imw=100&imh=100&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true) | CSUR St2 2DR | **CSUR-S 2DC=2DR** | :heavy_check_mark: |
