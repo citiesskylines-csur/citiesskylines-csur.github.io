@@ -7,12 +7,14 @@
 新CSUR还在开发中，争取10月底能够发布正式版，同时也会相应地做一系列文档（中文，英文，日文），教程以及速查表。敬请期待！
 
 * 点击这里阅读 [CSUR 上手指南](getting_started_cn.md)
+* 关于 CSUR 软件的细节请参阅 Reddit 上的[此讨论贴](https://www.reddit.com/r/CitiesSkylinesModding/comments/d8y4xo/csur_automated_creation_of_road_assets_with/) (英文，需科学上网）
 
 All-new version of CSUR coming soon! This time we further improved the models and textures and implemented tons of new features, including roads with dedicated left-turn lanes, BRT roads, exhaustive collections of ramp/interface modules, fully-rendered tunnels, and a lot more. We developed a code to automatically create all CSUR assets using the parameters of each module so making your custom CSUR road only takes a few minutes.
 
 We're working towards releasing it by late October and will be also publishing lots of documentations (Chinese, English and Japanese), tutorials and cheetsheets. Stay tuned!
 
 * Click here for [Getting Started](getting_started_en.md) with CSUR.
+* The development of CSUR is still in progress. If you are a modder and are intersted in its implementation details, please visit [this Reddit post](https://www.reddit.com/r/CitiesSkylinesModding/comments/d8y4xo/csur_automated_creation_of_road_assets_with/).
 
 新しいバージョンのCSURが間もなくリリースされます！新版では、モデルとテクスチャをさらに改善し、大量の新しい特性も実現した。この中には左カーブ専用道、BRT道路、完全なランプインターフェースモジュールのパックがあります。すべての道路にはトンネルモデルと車道指示などがあります。全自動でCSURを生成して導入するためのプログラムも開発しました、数分間でCSUR道路をカスタマイズできます。
 
