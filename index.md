@@ -21,4 +21,4 @@ We're working towards releasing it by late October and will be also publishing l
 新しいCSURはまだ開発中です。10月末に正式版を発表できるように努力します。同時に一連の文書（中国語、英語、日本語）、教程、速読表も作成します。お楽しみに！
 
 * ここをクリックして [使用説明](getting_started_jp.md)を読みます。
-* 詳細については、Reddit上の[揭示版](https://www.reddit.com/r/CitiesSkylinesModding/comments/d8y4xo/csur_automated_creation_of_road_assets_with/)を参照してください。
+* 詳細については、Reddit上の[揭示版](https://www.reddit.com/r/CitiesSkylinesModding/comments/d8y4xo/csur_automated_creation_of_road_assets_with/)を参照してください（英語）。
