@@ -8,6 +8,7 @@
 
 * 点击这里阅读 [CSUR 上手指南](getting_started_cn.md)
 * 关于 CSUR 软件的细节请参阅 Reddit 上的[此讨论贴](https://www.reddit.com/r/CitiesSkylinesModding/comments/d8y4xo/csur_automated_creation_of_road_assets_with/) (英文，需科学上网）
+* 关于 CSUR 的常见问题请参阅[本页面](faq_cn.md)
 
 All-new version of CSUR coming soon! This time we further improved the models and textures and implemented tons of new features, including roads with dedicated left-turn lanes, BRT roads, exhaustive collections of ramp/interface modules, fully-rendered tunnels, and a lot more. We developed a code to automatically create all CSUR assets using the parameters of each module so making your custom CSUR road only takes a few minutes.
 
