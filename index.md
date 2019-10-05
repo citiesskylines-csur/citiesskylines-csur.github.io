@@ -23,3 +23,4 @@ We're working towards releasing it by late October and will be also publishing l
 
 * ここをクリックして [使用説明](getting_started_jp.md)を読みます。
 * 詳細については、Reddit上の[揭示版](https://www.reddit.com/r/CitiesSkylinesModding/comments/d8y4xo/csur_automated_creation_of_road_assets_with/)を参照してください（英語）。
+* CSURに関する一般的な質問は[このページ](faq_jp.md)を参照してください。
