@@ -27,7 +27,7 @@
 - 左转待行区需要额外的Mod支持，目前新版CSUR不能设置左转待行区。
 
 **为什么我的地面模式上路面长了草？**
-- CSUR带有偏移的道路不会剪切地形，所以默认地面上的草会直接显示在路面上。可以通过Surface Painter涂刷水泥覆盖，或者使用Remove Decoration Sprites除去地面的草。
+- CSUR带有偏移的道路不会剪切地形，所以默认地面上的草会直接显示在路面上。可以通过Surface Painter涂刷水泥覆盖，或者使用Remove Decoration Sprites或hide it除去地面的草。
 
 **如何把CSUR对接原版马路和高速？**
 - CSUR可以和原版的六车道以下道路直接连接。和原版高速连接时连接处会凹下去一块，建议用Ploppable Asphalt覆盖。
