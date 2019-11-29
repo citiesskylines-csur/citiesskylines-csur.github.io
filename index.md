@@ -8,6 +8,7 @@
 
 * 点击这里阅读 [CSUR 上手指南](getting_started_cn.md)
 * 关于 CSUR 的一般讨论和测试版体验请加入 QQ 群 575052285
+* 如果你是一个DISCORD用户并乐意在该载体上和我们讨论，也可以点[这个链接](https://discord.gg/bs3hnVs)。
 * 关于 CSUR 软件的细节请参阅 Reddit 上的[此讨论贴](https://www.reddit.com/r/CitiesSkylinesModding/comments/d8y4xo/csur_automated_creation_of_road_assets_with/) (英文，需科学上网）
 * 关于 CSUR 的常见问题请参阅[本页面](faq_cn.md)
 
