@@ -22,5 +22,5 @@ The new CSUR is currently undergoing extensive testing and debugging. The conten
 新版CSURはもうテスト段階になりました。膨大な量のアセットや複雑な機能に関わるため、テストと調整には時間がかかります。このようにしてこそ、皆様に良質の作品をもたらします、ご了承ください。同時に一連の文書（中国語、英語、日本語）、教程、速読表も作成します。お楽しみに！
 
 * ここをクリックして [使用説明](getting_started_jp.md)を読みます。
-* 詳細については、Reddit上の[揭示版](https://www.reddit.com/r/CitiesSkylinesModding/comments/d8y4xo/csur_automated_creation_of_road_assets_with/)を参照してください（英語）。
+* 詳細については、私たちの[DISCORD GROUP](https://discord.gg/bs3hnVs)に参加できます。
 * CSURに関する一般的な質問は[このページ](faq_jp.md)を参照してください。
