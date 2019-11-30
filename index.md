@@ -17,7 +17,7 @@ All-new version of CSUR coming soon! This time we further improved the models an
 The new CSUR is currently undergoing extensive testing and debugging. The contents and features in CSUR dramatically exceed any road pack on Steam Workshop to date so testing and debugging cost significant amounts of time and effort. We will be also publishing lots of documentations (Chinese, English and Japanese), tutorials and cheetsheets after the Workshop release of is available. Stay tuned!
 
 * Click here for [Getting Started](getting_started_en.md) with CSUR.
-* If you would like to discuss about CSUR and its predecessors or try out the testing version of the new CSUR, please join the [Cities: Skylines China Discord server](https://discord.gg/bs3hnVs) where we host CSUR-related channels.
+* If you would like to discuss about CSUR and its predecessors or try out the testing version of the new CSUR, please join the [Our Discord server](https://discord.gg/bs3hnVs) where we host CSUR-related channels.
 * If you are a modder and are intersted in its implementation details, please visit [this Reddit post](https://www.reddit.com/r/CitiesSkylinesModding/comments/d8y4xo/csur_automated_creation_of_road_assets_with/).
 
 新しいバージョンのCSURが間もなくリリースされます！新版では、モデルとテクスチャをさらに改善し、大量の新しい特性も実現した。この中には左カーブ専用道、BRT道路、完全なランプインターフェースモジュールのパックがあります。すべての道路にはトンネルモデルと車道指示などがあります。全自動でCSURを生成して導入するためのプログラムも開発しました、数分間でCSUR道路をカスタマイズできます。
@@ -25,5 +25,5 @@ The new CSUR is currently undergoing extensive testing and debugging. The conten
 新版CSURはもうテスト段階になりました。膨大な量のアセットや複雑な機能に関わるため、テストと調整には時間がかかります。このようにしてこそ、皆様に良質の作品をもたらします、ご了承ください。同時に一連の文書（中国語、英語、日本語）、教程、速読表も作成します。お楽しみに！
 
 * ここをクリックして [使用説明](getting_started_jp.md)を読みます。
-* 詳細については、私たちの[DISCORD GROUP](https://discord.gg/bs3hnVs)に参加できます。
+* 詳細については、私たちの[Discord server](https://discord.gg/bs3hnVs)に参加できます。
 * CSURに関する一般的な質問は[このページ](faq_jp.md)を参照してください。
